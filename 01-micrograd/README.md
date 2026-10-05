@@ -1,12 +1,9 @@
-# Micrograd (Week 1)
+# Micrograd
 
-Karpathy-style scalar autograd.
+Karpathy-style scalar autograd: `Value`, the computation graph, and backprop.
 
-- **Tue:** `Value` + `__add__` / `__mul__` + computation graph (`explore.py`)
-- **Wed:** backprop (`backward`, topo sort, local grads) — not started here yet
+**Upskill week 1** (5–10 Oct): implement `backward()` (chain rule, topological order, local gradients). A single neuron is stretch work inside the same week.
 
 ```bash
 python3 explore.py
 ```
-
-Companion (optional): Karpathy “building micrograd” lecture — stop before deep backprop on Tue.
