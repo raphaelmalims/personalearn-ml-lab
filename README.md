@@ -24,7 +24,7 @@ Karpathy **micrograd backprop** + Géron **ch.1–2** + **eval basics** + **PDF 
 | Tue 6 | [Lecture](lectures/2026-10-06-week1-day2-micrograd-geron-gold.md): continue micrograd backprop · Géron ch.1–2 (one exercise) · RAGAS · inventory · gold toward 20 |
 | Wed 7 | [Lecture](lectures/2026-10-07-week1-day3-neuron-mlp.md): neuron and tiny MLP · Géron ch.1–2 depth (one exercise) · RAGAS concepts · inventory · gold toward 20 |
 | Thu 8 | [Lecture](lectures/2026-10-08-week1-day4-finish-mlp.md): finish micrograd if the MLP is still open · Géron ch.1–2 depth (one exercise) · RAGAS concepts · inventory · gold toward 20 |
-| Fri | Finish micrograd if the MLP is still open · Géron ch.1–2 depth · RAGAS concepts · inventory · gold toward 20 |
+| Fri 9 | [Lecture](lectures/2026-10-09-week1-day5-micrograd-wrap.md): micrograd wrap toward something usable · Géron ch.1–2 depth (one exercise) · RAGAS vocab · inventory · gold toward 20 |
 | Sat 10 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up / spaced review · gold to 20 |
 
 ## Layout
