@@ -27,6 +27,16 @@ Karpathy **micrograd backprop** + Géron **ch.1–2** + **eval basics** + **PDF 
 | Fri 9 | [Lecture](lectures/2026-10-09-week1-day5-micrograd-wrap.md): micrograd wrap toward something usable · Géron ch.1–2 depth (one exercise) · RAGAS vocab · inventory · gold toward 20 |
 | Sat 10 | [Lecture](lectures/2026-10-10-week1-day6-week-close.md): lighter 08:00–12:00 (1h Java + 3h ML) · catch-up / spaced review · gold to 20 |
 
+## Week 2 (12–17 Oct 2026)
+
+Géron **ch.3–4** + **makemore part 1** + gold **30 by Sat 17 Oct** + **RAG baseline scores (RAGAS only)**.
+
+| Day | Focus |
+| --- | --- |
+| Mon 12 | [Lecture](lectures/2026-10-12-week2-day1-bigram-start.md): makemore part 1 start (bigrams) · Géron ch.3 (one exercise) · RAGAS scores allowed · gold toward 30 |
+| Tue–Fri | Géron ch.3–4 · makemore part 1 · RAG baseline scores · gold toward 30 |
+| Sat 17 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up · gold to 30 |
+
 ## Layout
 
 | Path | Purpose |
