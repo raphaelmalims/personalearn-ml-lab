@@ -34,7 +34,8 @@ Géron **ch.3–4** + **makemore part 1** + gold **30 by Sat 17 Oct** + **RAG ba
 | Day | Focus |
 | --- | --- |
 | Mon 12 | [Lecture](lectures/2026-10-12-week2-day1-bigram-start.md): makemore part 1 start (bigrams) · Géron ch.3 (one exercise) · RAGAS scores allowed · gold toward 30 |
-| Tue–Fri | Géron ch.3–4 · makemore part 1 · RAG baseline scores · gold toward 30 |
+| Tue 13 | [Lecture](lectures/2026-10-13-week2-day2-bigram-sample.md): normalize bigram rows and sample · Géron ch.4 (one exercise) · RAGAS baseline cells · gold toward 30 |
+| Wed–Fri | Géron ch.3–4 · makemore part 1 · RAG baseline scores · gold toward 30 |
 | Sat 17 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up · gold to 30 |
 
 ## Layout
