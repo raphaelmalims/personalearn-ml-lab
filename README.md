@@ -38,7 +38,7 @@ Géron **ch.3–4** + **makemore part 1** + gold **30 by Sat 17 Oct** + **RAG ba
 | Wed 14 | [Lecture](lectures/2026-10-14-week2-day3-bigram-nll.md): bigram negative log likelihood · one layer only if that loss is in hand · Géron ch.4 (next cluster) · RAGAS baseline · gold toward 30 |
 | Thu 15 | [Lecture](lectures/2026-10-15-week2-day4-one-layer-train.md): train the one-layer bigram net · Géron ch.4 (logistic / softmax) · RAGAS dev scores · gold toward 30 |
 | Fri 16 | [Lecture](lectures/2026-10-16-week2-day5-layer-samples.md): sample the trained layer vs the count model · remaining Géron ch.3–4 cluster · RAGAS baseline cells · gold toward 30 |
-| Sat 17 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up · gold to 30 |
+| Sat 17 | [Lecture](lectures/2026-10-17-week2-day6-week-close.md): lighter 08:00–12:00 (1h Java + 3h ML) · catch-up · gold to 30 |
 
 ## Layout
 
