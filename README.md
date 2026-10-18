@@ -40,6 +40,16 @@ Géron **ch.3–4** + **makemore part 1** + gold **30 by Sat 17 Oct** + **RAG ba
 | Fri 16 | [Lecture](lectures/2026-10-16-week2-day5-layer-samples.md): sample the trained layer vs the count model · remaining Géron ch.3–4 cluster · RAGAS baseline cells · gold toward 30 |
 | Sat 17 | [Lecture](lectures/2026-10-17-week2-day6-week-close.md): lighter 08:00–12:00 (1h Java + 3h ML) · catch-up · gold to 30 |
 
+## Week 3 (19–24 Oct 2026)
+
+Géron **ch.6–7** + **makemore part 2** + gold **50 by Sat 24 Oct** + **eval table v1 (chunking/embeddings, RAGAS only)**.
+
+| Day | Focus |
+| --- | --- |
+| Mon 19 | [Lecture](lectures/2026-10-19-week3-day1-context-start.md): makemore part 2 start (context window) · Géron ch.6 (one exercise) · eval table v1 header · gold toward 50 |
+| Tue–Fri | Géron ch.6–7 · makemore part 2 · eval table v1 · gold toward 50 |
+| Sat 24 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up · gold to 50 |
+
 ## Layout
 
 | Path | Purpose |
