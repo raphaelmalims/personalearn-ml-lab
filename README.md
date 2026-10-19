@@ -47,7 +47,8 @@ Géron **ch.6–7** + **makemore part 2** + gold **50 by Sat 24 Oct** + **eval t
 | Day | Focus |
 | --- | --- |
 | Mon 19 | [Lecture](lectures/2026-10-19-week3-day1-context-start.md): makemore part 2 start (context window) · Géron ch.6 (one exercise) · eval table v1 header · gold toward 50 |
-| Tue–Fri | Géron ch.6–7 · makemore part 2 · eval table v1 · gold toward 50 |
+| Tue 20 | [Lecture](lectures/2026-10-20-week3-day2-embedding-table.md): tiny embedding table (lookup only) · Géron ch.6 (next cluster) · eval table v1 rows · gold toward 50 |
+| Wed–Fri | Géron ch.6–7 · makemore part 2 · eval table v1 · gold toward 50 |
 | Sat 24 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up · gold to 50 |
 
 ## Layout
