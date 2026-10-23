@@ -51,7 +51,7 @@ Géron **ch.6–7** + **makemore part 2** + gold **50 by Sat 24 Oct** + **eval t
 | Wed 21 | [Lecture](lectures/2026-10-21-week3-day3-lookup-rows.md): more lookup rows or a flat-guess loss · Géron ch.6 (next cluster) · eval table v1 rows · gold toward 50 |
 | Thu 22 | [Lecture](lectures/2026-10-22-week3-day4-same-loss.md): flat-guess loss beside each row · Géron ch.6 (next blank) · eval table v1 rows · gold toward 50 |
 | Fri 23 | [Lecture](lectures/2026-10-23-week3-day5-guess-check.md): flat guess against the table · Géron ch.6–7 (next blank) · eval row only with a real RAGAS score · gold toward 50 |
-| Sat 24 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up · gold to 50 |
+| Sat 24 | [Lecture](lectures/2026-10-24-week3-day6-week-close.md): lighter 08:00–12:00 (1h Java + 3h ML) · catch-up · gold to 50 |
 
 ## Layout
 
