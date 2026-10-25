@@ -53,6 +53,16 @@ Géron **ch.6–7** + **makemore part 2** + gold **50 by Sat 24 Oct** + **eval t
 | Fri 23 | [Lecture](lectures/2026-10-23-week3-day5-guess-check.md): flat guess against the table · Géron ch.6–7 (next blank) · eval row only with a real RAGAS score · gold toward 50 |
 | Sat 24 | [Lecture](lectures/2026-10-24-week3-day6-week-close.md): lighter 08:00–12:00 (1h Java + 3h ML) · catch-up · gold to 50 |
 
+## Week 4 (26–31 Oct 2026)
+
+Géron **ch.10** + **makemore part 3** + **polish RAG** + **how-i-measure one-pager**.
+
+| Day | Focus |
+| --- | --- |
+| Mon 26 | [Lecture](lectures/2026-10-26-week4-day1-init-loss.md): makemore part 3 start (initial loss) · Géron ch.10 (one exercise) · how-i-measure headings · gold stays 50 |
+| Tue–Fri | Géron ch.10 · makemore part 3 · polish RAG · how-i-measure |
+| Sat 31 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up |
+
 ## Layout
 
 | Path | Purpose |
