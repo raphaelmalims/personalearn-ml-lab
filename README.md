@@ -61,7 +61,8 @@ Géron **ch.10** + **makemore part 3** + **polish RAG** + **how-i-measure one-pa
 | --- | --- |
 | Mon 26 | [Lecture](lectures/2026-10-26-week4-day1-init-loss.md): makemore part 3 start (initial loss) · Géron ch.10 (one exercise) · how-i-measure headings · gold stays 50 |
 | Tue 27 | [Lecture](lectures/2026-10-27-week4-day2-first-steps.md): a few training steps · Géron ch.10 (next cluster) · one RAG polish mark · how-i-measure paragraph · gold stays 50 |
-| Wed–Fri | Géron ch.10 · makemore part 3 · polish RAG · how-i-measure |
+| Wed 28 | [Lecture](lectures/2026-10-28-week4-day3-activation-check.md): hidden-mix check · Géron ch.10 (next cluster) · kept RAG row · how-i-measure paragraph · gold stays 50 |
+| Thu–Fri | Géron ch.10 · makemore part 3 · polish RAG · how-i-measure |
 | Sat 31 | Lighter 08:00–12:00 (1h Java + 3h ML): catch-up |
 
 ## Layout
